@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.2">
+			<file name="source.xml" url="https://raw.githubusercontent.com/grundil/aurora/main/source.xml" />
+		</update>
+	</info>
+	<element name="Mordenkainen Presents: Monsters of the Multiverse" type="Source" source="Core" id="ID_WOTC_SOURCE_MONSTERS_OF_THE_MULTIVERSE">
+		<description>
+			<p><strong>A bestiary of wondrous friends and foes for the world’s greatest roleplaying game.</strong></p>
+			<p>Sparkling with the musings of the wizard Mordenkainen, this tome features a host of creatures for use in the Dungeons &amp Dragons roleplaying game. Hailing from every corner of the multiverse, these creatures represent some of the most benevolent and malevolent forces that D&ampD heroes might face.</p>
+			<p>The book also gathers together fantastical peoples from many different worlds. Each of these peoples represents a race option when you create your D&ampD character, expanding on the choices in the Player’s Handbook.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">MOTM</set>
+			<set name="url">https://dnd.wizards.com/products/monsters-of-the-multiverse</set>
+			<set name="image">https://media.dnd.wizards.com/styles/products_thumbnail/public/images/product/2gUbic1p4hc300.png</set>
+			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
+			<set name="official">true</set>
+			<set name="supplement">true</set>
+			<set name="release">20220516</set>
+		</setters>
+	</element>
+</elements>
